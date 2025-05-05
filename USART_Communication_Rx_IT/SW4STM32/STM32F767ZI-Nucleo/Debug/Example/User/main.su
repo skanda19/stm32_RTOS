@@ -1,0 +1,17 @@
+../../../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_bus.h:309:22:LL_AHB1_GRP1_EnableClock	8	static
+../../../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_gpio.h:273:22:LL_GPIO_SetPinMode	12	static,ignoring_inline_asm
+../../../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_gpio.h:413:22:LL_GPIO_SetPinSpeed	12	static,ignoring_inline_asm
+../../../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_gpio.h:484:22:LL_GPIO_SetPinPull	12	static,ignoring_inline_asm
+C:/Users/ricar/Documents/MAESTRIA CETYS 2024/ADM. TAREAS EN TIEMPO REAL/workspace/USART_Communication_Rx_IT/Src/main.c:553:9:IsCommandComplete	0	static
+C:/Users/ricar/Documents/MAESTRIA CETYS 2024/ADM. TAREAS EN TIEMPO REAL/workspace/USART_Communication_Rx_IT/Src/main.c:575:6:ParseAndExecuteCommand	136	static
+C:/Users/ricar/Documents/MAESTRIA CETYS 2024/ADM. TAREAS EN TIEMPO REAL/workspace/USART_Communication_Rx_IT/Src/main.c:688:6:Configure_USART	32	static,ignoring_inline_asm
+C:/Users/ricar/Documents/MAESTRIA CETYS 2024/ADM. TAREAS EN TIEMPO REAL/workspace/USART_Communication_Rx_IT/Src/main.c:753:6:LED_Init	8	static
+C:/Users/ricar/Documents/MAESTRIA CETYS 2024/ADM. TAREAS EN TIEMPO REAL/workspace/USART_Communication_Rx_IT/Src/main.c:782:6:LED_On	0	static
+C:/Users/ricar/Documents/MAESTRIA CETYS 2024/ADM. TAREAS EN TIEMPO REAL/workspace/USART_Communication_Rx_IT/Src/main.c:794:6:LED_Off	0	static
+C:/Users/ricar/Documents/MAESTRIA CETYS 2024/ADM. TAREAS EN TIEMPO REAL/workspace/USART_Communication_Rx_IT/Src/main.c:809:6:LED_Blinking	8	static
+C:/Users/ricar/Documents/MAESTRIA CETYS 2024/ADM. TAREAS EN TIEMPO REAL/workspace/USART_Communication_Rx_IT/Src/main.c:824:6:UserButton_Init	16	static,ignoring_inline_asm
+C:/Users/ricar/Documents/MAESTRIA CETYS 2024/ADM. TAREAS EN TIEMPO REAL/workspace/USART_Communication_Rx_IT/Src/main.c:864:6:SystemClock_Config	8	static
+C:/Users/ricar/Documents/MAESTRIA CETYS 2024/ADM. TAREAS EN TIEMPO REAL/workspace/USART_Communication_Rx_IT/Src/main.c:491:5:main	128	static,ignoring_inline_asm
+C:/Users/ricar/Documents/MAESTRIA CETYS 2024/ADM. TAREAS EN TIEMPO REAL/workspace/USART_Communication_Rx_IT/Src/main.c:924:6:UserButton_Callback	0	static
+C:/Users/ricar/Documents/MAESTRIA CETYS 2024/ADM. TAREAS EN TIEMPO REAL/workspace/USART_Communication_Rx_IT/Src/main.c:938:6:UART_RxCpltCallback	16	static
+C:/Users/ricar/Documents/MAESTRIA CETYS 2024/ADM. TAREAS EN TIEMPO REAL/workspace/USART_Communication_Rx_IT/Src/main.c:964:6:Error_Callback	16	static,ignoring_inline_asm
