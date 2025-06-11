@@ -1,0 +1,15 @@
+../Core/Src/main.c:129:10:generate_random	2
+../Core/Src/main.c:143:7:generate_random_float	1
+../Core/Src/main.c:154:9:calculate_nmea_checksum	2
+../Core/Src/main.c:168:6:generate_gps_string	7
+../Core/Src/main.c:216:5:uart_printf	3
+../Core/Src/main.c:243:5:main	3
+../Core/Src/main.c:353:6:SystemClock_Config	3
+../Core/Src/main.c:395:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:430:13:MX_GPIO_Init	1
+../Core/Src/main.c:453:6:speedTaskHook	2
+../Core/Src/main.c:483:6:gpsTaksHook	2
+../Core/Src/main.c:516:6:temperatureTaskHook	2
+../Core/Src/main.c:546:6:bufferRenderingTaskHook	2
+../Core/Src/main.c:591:6:MPU_Config	1
+../Core/Src/main.c:622:6:Error_Handler	1
